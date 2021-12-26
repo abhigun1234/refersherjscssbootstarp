@@ -16,3 +16,8 @@
 
     display: flex;  
 }
+.room-details{
+
+    display: flex;
+    flex-direction: row;
+}
